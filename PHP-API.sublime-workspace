@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"insert",
+				"insertMainDetails"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"t",
+				"tabbed"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"headre",
+				"header_image"
+			],
+			[
+				"head",
+				"header_image"
+			],
+			[
+				"up",
+				"uploadImage"
+			],
+			[
+				"PA",
+				"paramString"
+			],
+			[
+				"ma",
+				"mainSiteURL"
+			],
+			[
+				"brand",
+				"brand_url"
+			],
+			[
+				"cre",
+				"createPartnerParameters"
+			],
+			[
+				"pv",
+				"pvcode"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"o",
+				"one_day"
+			],
+			[
+				"strTo",
+				"strtotime"
+			],
+			[
+				"quer",
+				"msql_query"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"appl",
+				"appliedFiltersEle"
+			],
+			[
+				"M",
+				"MinPrice"
+			],
+			[
+				"chec",
+				"checkPriceFilterIsValid"
+			],
+			[
+				"has",
+				"hasDataAttribute"
+			],
+			[
+				"check",
+				"checkFilterSectionisHidden"
+			],
+			[
+				"selecte",
+				"selectedFilters"
+			],
+			[
+				"selec",
+				"selectedFilters"
+			],
+			[
+				"sub",
+				"subscribedMessages"
+			],
+			[
+				"in",
+				"calendarInput"
+			],
+			[
+				"ico",
+				"calendarIcon"
+			],
+			[
+				"cal",
+				"calendarEle"
+			],
+			[
+				"cale",
+				"calendarIcon"
+			],
+			[
+				"calen",
+				"calendarEle"
+			],
+			[
+				"de",
+				"destinationField"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/__PHP-API/API.php",
+		"/C/__PHP-API/APIFunctions.php",
+		"/C/__landing pages/index2.php",
+		"/C/__landing pages/includes/API.php",
+		"/C/__lateroomsapp/includes/API.php",
+		"/C/__lateroomsapp/hotelsAPI.php",
+		"/C/__landing pages/includes/APIFunctions.php",
+		"/C/__landing pages/index.php",
+		"/C/__landing pages/templates-code/templates-code/deals-no-intro/promo-links/deals-no-intro/css/grid-min-768-max-979.css",
+		"/C/__landing pages/templates-code/templates-code/deals-no-intro/promo-links/deals-no-intro/css/grid-min-980.css",
+		"/C/__landing pages/templates-code/__MACOSX/templates-code/deals-no-intro/promo-links/deals-no-intro/css/._grid-min-980.css",
+		"/C/__landing pages/templates-code/__MACOSX/templates-code/deals-no-intro/promo-links/deals-no-intro/css/._grid-min-768-max-979.css",
+		"/C/__lateroomsapp/includes/APIFunctions.php",
+		"/C/__lateroomsapp/index.php",
+		"/C/__landing pages/insertHotelIDs.php",
+		"/C/__landing pages/includes/config.php",
+		"/C/__landing pages/includes/dbconfig.php",
+		"/C/__landing pages/includes/deals-intro-premacro-foot.php",
+		"/C/__landing pages/includes/deals-intro-premacro-head.php",
+		"/C/__landing pages/includes/footer-search.php",
+		"/C/__landing pages/includes/head.php",
+		"/C/__landing pages/templates-code/templates-code/deals-intro/promo-links/deals-no-intro/css/grid-max-767.css",
+		"/C/__landing pages/includes/search.php",
+		"/C/__landing pages/templates-code/templates-code/deals-intro/promo-links/deals-no-intro/css/grid-min-980.css",
+		"/C/__landing pages/templates-code/templates-code/deals-tabbed/promo-links/deals-tabbed/css/grid.css",
+		"/C/__landing pages/templates-code/templates-code/deals-tabbed/promo-links/deals-tabbed/css/grid-min-980.css",
+		"/C/__landing pages/templates-code/templates-code/deals-tabbed/promo-links/deals-tabbed/css/grid-max-767.css",
+		"/C/__landing pages/templates-code/templates-code/deals-no-intro/promo-links/deals-no-intro/css/grid-max-767.css",
+		"/C/__landing pages/templates-code/__MACOSX/templates-code/deals-tabbed/en/._promo",
+		"/C/__landing pages/templates-code/__MACOSX/templates-code/deals-tabbed/en/promo/deals-tabbed-premacro.html",
+		"/C/__landing pages/templates-code/__MACOSX/templates-code/deals-tabbed/en/promo/._deals-tabbed-premacro.html",
+		"/C/__landing pages/templates-code/templates-code/deals-tabbed/en/promo/deals-tabbed-premacro.html",
+		"/C/__landing pages/templates-code/templates-code/deals-intro/promo-links/deals-no-intro/css/laterooms_main.css",
+		"/C/__landing pages/insertHotelIDsAndPic.php",
+		"/C/__landing pages/phpinfo.php",
+		"/C/__landing pages/templates-code/templates-code/deals-intro/promo-links/deals-no-intro/css/grid.css",
+		"/C/__landing pages/templates-code/templates-code/deals-intro/en/promo/deals-intro-premacro.html",
+		"/C/__landing pages/templates-code/templates-code/deals-no-intro/en/promo/deals-no-intro-premacro.html",
+		"/C/__lateroomsapp/hotels.php",
+		"/C/__landing pages/includes/Connect.php",
+		"/C/__lateroomsapp/includes/search-results.php",
+		"/C/__lateroomsapp/includes/config.php",
+		"/C/__lateroomsapp/includes/functions.php",
+		"/C/__lateroomsapp/ajax_search.php",
+		"/C/__lateroomsapp/includes/simple_html_dom.php",
+		"/C/__lateroomsapp/readmore.min.js",
+		"/C/__lateroomsapp/includes/SimpleDOM.php",
+		"/C/__lateroomsapp/includes/hotelClass.php",
+		"/C/__lateroomsapp/.htaccess",
+		"/C/__lateroomsapp/hotels_pjson.php",
+		"/C/__lateroomsapp/index_test.php",
+		"/C/__lateroomsapp/includes/APIclass.php",
+		"/C/__lateroomsapp/hotels_json.php",
+		"/C/src/trunk.LateRooms/test/LateRooms.Web.Javascript/tests/LRMobile/AppliedFiltersSection.js",
+		"/C/src/trunk.LateRooms/test/LateRooms.Web.Javascript/tests/LRMobile/SearchTabStripFilterSubsection.js",
+		"/C/src/trunk.LateRooms/test/LateRooms.Web.Javascript/tests/LRMobile/SearchTabStrip.js",
+		"/C/src/trunk.AsiaRooms/src/AsiaRooms.Web/assets/scripts/tests/password-policy/PasswordResetValidation.html",
+		"/C/src/trunk.AsiaRooms/src/AsiaRooms.Web/assets/scripts/tests/password-policy/PasswordResetValidation.js",
+		"/C/src/trunk.AsiaRooms/src/AsiaRooms.Web/assets/scripts/tests/password-policy/PasswordPolicyTests.html",
+		"/C/src/trunk.AsiaRooms/src/AsiaRooms.Web/assets/scripts/tests/password-policy/test-password-policy-validation.js",
+		"/C/src/mobilehomepage/mobilefirsthomepage/package.json",
+		"//datafs/Home Drives/pspeakman/My Documents/calendar.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/src/trunk.CallCentre/rakefile.rb",
+		"/C/src/trunk.CallCentre/Gemfile.lock",
+		"/C/src/trunk.CallCentre/Gemfile",
+		"/C/src/Treehouse/Vagrantfile",
+		"/C/Users/pspeakman/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/3KNJ23T6/MakeEnquiry.json",
+		"/C/Users/pspeakman/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/3KNJ23T6/MakeBooking.json",
+		"/C/Users/pspeakman/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/3KNJ23T6/ReservationApi - Draft 2.json",
+		"/C/src/trunk.FinanceManagement/LRAdminMVC.sln",
+		"/C/src/Treehouse/bootstrap.sh",
+		"/C/src/trunk.LateRooms/src/LateRooms.Web/Web.config",
+		"/C/src/trunk.CallCentre/src/LateRooms.Web/Web.config",
+		"/C/src/trunk.CallCentre/packages.config",
+		"/C/src/Treehouse/.New Text Document.php.swp",
+		"/C/src/Treehouse/New Text Document.php",
+		"/C/src/Treehouse/script.sh",
+		"/C/Users/pspeakman/.vagrant.d/insecure_private_key",
+		"/C/src/trunk.CallCentre/configs/Laterooms.Web.CallCentre/test/Web.config",
+		"/C/src/trunk.LRAdmin/src/LateRooms.LRAdmin/StructureMap/StructureMap.dev.config",
+		"/C/src/trunk.LRAdmin/src/LateRooms.LRAdmin/Web.config",
+		"/C/src/trunk.LRAdmin/scripts/twist.rb",
+		"/C/src/trunk.LRAdmin/scripts/test.rb",
+		"/C/src/trunk.LRAdminMVC/configatron.env.yml",
+		"/C/src/trunk.CallCentre/scripts/twist.rb",
+		"/C/src/trunk.SharedDependencies/LateRooms.Services/src/Configs/test-contactcentre/bin/StructureMap/LateRooms.Business.Data.StructureMap.test.config",
+		"/C/src/trunk.SharedDependencies/LateRooms.Services/src/Configs/qa-contactcentre/bin/StructureMap/LateRooms.Business.Data.StructureMap.qa.config",
+		"/C/src/trunk.CallCentre/scripts/prepare.rb",
+		"/C/Users/pspeakman/Desktop/hotelAmends.xml",
+		"/C/src/trunk.LRAdminMVC/HotelManagement/HotelManagement.csproj",
+		"/C/src/trunk.LRAdminMVC/parameters/parameters-template.xml.erb",
+		"/C/src/trunk.LRAdminMVC/parameters/declared-parameters.xml",
+		"/C/src/trunk.LRAdminMVC/rakefile.rb",
+		"/C/src/web.platform/.bundle/config",
+		"/C/src/Siemens.IVRCancel/packages.config",
+		"/C/src/trunk.LRAdmin/packages.config",
+		"/C/Users/pspeakman/Desktop/cchnadler.scenario",
+		"/C/Users/pspeakman/Desktop/SageWebService/SageWebService/TELAPP231P/StructureMap/LateRooms.Business.Data.StructureMap.live.config",
+		"/C/Users/pspeakman/Desktop/sage web service live/live/Log4Net.config",
+		"/C/Users/pspeakman/Desktop/sage web service live/live/Web.config",
+		"/C/src/scenarios/Special Offer Pop-up"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"head",
+			"header",
+			"panel-left",
+			"addIntroText",
+			"deals-intro",
+			"/deals-intro",
+			"promo",
+			"TOP-STRIP",
+			"TOP-ST",
+			"section",
+			"container",
+			"print_r",
+			"vouc",
+			"event_pvcode_url",
+			"get",
+			"get deal",
+			"');",
+			"main.css",
+			"#",
+			"top-strip-panel",
+			"top-strip-panel-mobile",
+			"start_date",
+			"$alt_logo",
+			"$logo",
+			"createmain",
+			"highlightPos",
+			"Distance",
+			"  \n",
+			"sortby",
+			"Distance",
+			"sortAsc",
+			"sortsc",
+			"sortby",
+			"sort",
+			"sortAsc",
+			"sortasc",
+			"sortby",
+			"sortingAsc",
+			"hotelDistanceCount",
+			"ZoomIndex",
+			"hotelDistanceCount",
+			"zoon",
+			"d=d",
+			"		\n",
+			"orderby",
+			"tp",
+			"GetRecentEvent",
+			"_POST",
+			"$brand_id",
+			"form",
+			"insert",
+			"orderby",
+			"order by",
+			"tp",
+			"brand",
+			"orderby",
+			"sort by",
+			"kid",
+			"$event_affiliate_id_url",
+			"language",
+			"$brand_url",
+			"lang",
+			"keyword",
+			"cur",
+			"hids",
+			"getArearesults",
+			"getEventSpecificIDS",
+			"search",
+			"WebsiteUrl",
+			"succ",
+			".succe",
+			"http",
+			"ajax",
+			"www.laterooms.com",
+			"console.log(Sortby);",
+			"www.laterooms.com",
+			"www.laterooms.comht",
+			"curl",
+			"http",
+			"www.laterooms.comht",
+			"erooms.comhttp:",
+			"lateroom",
+			"domain",
+			"www.",
+			"sortby",
+			"distance",
+			"hoteldistance",
+			"distance",
+			"sort",
+			"order",
+			"query",
+			"events_sort",
+			"miles",
+			"orderby",
+			"$orderby",
+			"h2",
+			"readmo",
+			"adults",
+			"rt",
+			"r-t",
+			"nc",
+			"code",
+			"pcode",
+			"p",
+			"aid",
+			"hotel_star",
+			"pv",
+			"index",
+			"brand",
+			"echo",
+			"xml",
+			"echo ",
+			"xmlfeed.ka.laterooms.co",
+			"echo",
+			"xml",
+			"partnerdescription",
+			"HOne",
+			"NC",
+			"<span>NC</span>",
+			"$hotel_rooms",
+			"lim",
+			"results",
+			"getArearesults",
+			"pre",
+			"in ",
+			"in",
+			"in ",
+			"createMarker"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true
+}
