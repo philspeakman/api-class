@@ -16,9 +16,9 @@ class API{
 		}
 
 		//$service_url = self::specificHotelSearch($start_date,$parameters);	
-		//$service_url = self::keyWordSearch($parameters);	
+		$service_url = self::keyWordSearch($parameters);	
 		
-		$service_url = self::specialOfferHotel($parameters);	
+		//$service_url = self::specialOfferHotel($parameters);	
 	
 		echo '<!-- service URL '.$service_url.' -->';		
 
@@ -51,7 +51,7 @@ class API{
 			$service_url ='https://api.laterooms.com/search/text/'. $parameters['keyword_name'] .'/?d='.
 			$parameters['start_date'].'&n='. $parameters['nights'] .'&o='.$parameters['adults'].'-'.
 			$parameters['children'].'&cur='.$parameters['currency'].'&b='.
-			$parameters['brand'].'&s='.$parameters['order by'].'&sd=false&nf=true&ps='.$parameters['page_size'];
+			$parameters['brand'].'&s='.$parameters['order_by'].'&sd='.$parameters['sortOrder'].'&nf=true&ps='.$parameters['page_size'];
 			
 			if($parameters['starrating']){
 				$service_url = $service_url.'&star='.$parameters['starrating'];
